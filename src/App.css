@@ -1,0 +1,56 @@
+body{
+  background-color: rgb(221,225,227);
+  font-family: 'Verdana';
+}
+.App{
+  background-color: white;
+  text-align:center;
+  margin: 0 auto;
+  padding-bottom: 5%;
+  padding-top:2%;
+  border: 5px solid black;
+}
+#title{
+  font-family: 'Roboto', 'Arial';
+}
+input{
+  width:50%;
+  border: 2px solid black;
+}
+input:focus{
+  outline: none;
+}
+.add{
+  padding: 10px;
+}
+.task{
+  text-align:center;
+  margin-top: 1%;
+  border:2px solid black;
+  padding: 1%;
+  color:black;
+  font-size: 20px;
+  height: 20px;
+}
+.del{
+  float: right;
+  border: none;
+  cursor: pointer;
+  background-color:rgb(203, 17, 17);
+}
+.complete{
+  float: right;
+  border: none;
+  cursor: pointer;
+  background-color:rgb(226, 233, 120);
+}
+
+#addBut{
+  
+  cursor: pointer;
+  margin-left:2px;
+  background-color: white;
+  border:none;
+  border:2px solid black;
+}
+
