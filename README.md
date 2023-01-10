@@ -2,10 +2,12 @@
 
 # To Do List Application
 
-This is a simple to do list application to keep track of all the chores I have to complete on a given day. The application was created using React.js and styled using CSS. 
+This is a simple to do list application to keep track of all the chores I have to complete on a given day. The application was created using React.js and styled using CSS. React was the chosen technology mainly due to its interactive nature and its ability to create complex features with less code. Overall, Reacts component structuring makes it an ideal technology to create a To Do List!
 
 Features:
 
 - Insert a new task
 - Mark a task as completed
 - Delete an existing task
+
+In the future, I will add extra functionality to advance this To Do List application. A few examples include having an edit button to alter pre-existing chores and a login system so each individual can have their personal To Do List account. 
