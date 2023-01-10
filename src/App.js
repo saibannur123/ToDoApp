@@ -48,7 +48,7 @@ function App() {
           <button id="addBut" onClick={addTask}>Add</button>
         </div>
       </div>
-      <div class="theList">
+      <div className="theList">
         {theList.map((createTask) => {
           return (
             <Task
@@ -57,6 +57,7 @@ function App() {
               deleteTask={deleteTask}
               completed={createTask.completed}
               completeTask={completeTask}
+              key={createTask.id}
             />
           );
         })}
