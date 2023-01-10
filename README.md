@@ -3,3 +3,9 @@
 # To Do List Application
 
 This is a simple to do list application to keep track of all the chores I have to complete on a given day. The application was created using React.js and styled using CSS. 
+
+Features:
+
+- Insert a new task
+- Mark a task as completed
+- Delete an existing task
